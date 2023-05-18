@@ -152,20 +152,6 @@ The detector above was trained on 2000 images (1000 mask, 1000 without mask) fro
 ## 3. Classify masks
 MaskTheFace generated dataset can be used to classify among masks using a deep network.
 
-## Citation
-If you find this repository useful, please use following citation
-```
-@misc{anwar2020masked,
-title={Masked Face Recognition for Secure Authentication},
-author={Aqeel Anwar and Arijit Raychowdhury},
-year={2020},
-eprint={2008.11104},
-archivePrefix={arXiv},
-primaryClass={cs.CV}
-} 
-```
-
-
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) file for details
 # MaskTheFace
